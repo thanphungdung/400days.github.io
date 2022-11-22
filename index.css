@@ -1,0 +1,101 @@
+body{
+    background-color: #2F3035;
+    background-image:url(images/IMG_5486.JPG) ;
+    background-size:cover;
+   
+    background-repeat: no-repeat;
+}
+
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    color: white;
+    text-align: center;
+}
+
+.img1{
+    height: 110px;
+    width: 110px;
+}
+
+header{
+ 
+    height: 118px;
+    text-align: center;
+    
+}
+
+nav{
+    background-color:rgba(255, 192, 203, 0.395);
+    height: 20px;
+    text-align: center;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+main{
+    background-color: rgba(0, 255, 255, 0.316);
+    height: 300px;
+    text-align: center;
+    
+    
+}
+
+
+    
+
+h1{
+    font-size: 50px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
+}
+
+p{
+    font-size: 30px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+a{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+
+.d1{
+    font-size:30px ;
+}
+
+.img2{
+    width: 300px;
+    height: 500px;
+
+}
+
+.d2{
+    background-color: rgba(255, 192, 203, 0.318);
+    font-size: 30px;
+}
+
+.img3{
+    width: 500px;
+    height: 300px;
+}
+
+.img4{
+    width: 270px;
+    height:420px;
+    padding-right: 150px;
+}
